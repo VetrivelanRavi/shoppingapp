@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "description": "Comfortable cotton t-shirt",
+        "price": "$15.99",
+        "images": "https://i.pinimg.com/474x/ce/ea/19/ceea19d227dc8f0e9ba0dfefcfeb02f2.jpg",
+        "color": "Red",
+        "brand": "Nike",
+        "category": "Clothing",
+        "stock_quantity": 100,
+        "ratings":"3.7"
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Classic denim jeans",
+        "price": "$29.99",
+        "images": "https://assets.ajio.com/medias/sys_master/root/20230621/yklf/64924742d55b7d0c6388200e/-473Wx593H-463848255-blue-MODEL.jpg",
+        "color": "Blue",
+        "brand": "Levis",
+        "category": "Clothing",
+        "stock_quantity": 80,
+        "ratings":"2.5"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Lightweight running shoes",
+        "price": "$49.99",
+        "images": "https://assets.ajio.com/medias/sys_master/root/20211224/6GNR/61c4df38f997ddf8f15f8e91/-473Wx593H-469034008-black-MODEL2.jpg",
+        "color": "Black",
+        "brand": "Puma",
+        "category": "Footwear",
+        "stock_quantity": 120,
+        "ratings":"2.8"
+    },
+    {
+        "id": 4,
+        "name": "Dress Shirt",
+        "description": "Formal dress shirt",
+        "price": "$39.99",
+        "images": "https://assets.ajio.com/medias/sys_master/root/20231205/LBwK/656ed464afa4cf41f5b4f686/-1117Wx1400H-462323964-white-MODEL.jpg",
+        "color": "White",
+        "brand": "Peter England",
+        "category": "Clothing",
+        "stock_quantity": 60,
+        "ratings":"3.2"
+    },
+    {
+        "id": 5,
+        "name": "Shorts",
+        "description": "Casual shorts for everyday wear",
+        "price": "$24.99",
+        "images": "https://d1zyv7v12t3541.cloudfront.net/attached_assets/assets/000/049/581/large/8f5b47283a39489250b3b053b318f3ae.jpg?1558203705",
+        "color": "Khaki",
+        "brand": "Denin",
+        "category": "Clothing",
+        "stock_quantity": 90,
+        "ratings":"2.4"
+    },
+    {
+        "id": 6,
+        "name": "Sneakers",
+        "description": "Stylish sneakers for urban lifestyle",
+        "price": "$59.99",
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RBRlF-Wx0RdzplgkzKQY3cH0XFN_SfpKCQ&usqp=CAU",
+        "color": "White",
+        "brand": "Adidas",
+        "category": "Footwear",
+        "stock_quantity": 110,
+        "ratings":"4.9"
+    },
+    {
+        "id": 7,
+        "name": "Hoodie",
+        "description": "Warm and cozy hoodie for chilly days",
+        "price": "$34.99",
+        "images": "https://5.imimg.com/data5/SELLER/Default/2021/8/NH/IK/JL/114353871/men-grey-plain-hoodies-500x500.jpg",
+        "color": "Gray",
+        "brand": "Louis Phillipe",
+        "category": "Clothing",
+        "stock_quantity": 75,
+        "ratings":"3.8"
+    },
+    {
+        "id": 8,
+        "name": "Sunglasses",
+        "description": "Stylish sunglasses for UV protection",
+        "price": "$19.99",
+        "images": "https://m.media-amazon.com/images/I/71UqjSGPEFL._AC_UY350_.jpg",
+        "color": "Black",
+        "brand": "LensKart",
+        "category": "Accessories",
+        "stock_quantity": 150,
+        "ratings":"3.2"
+    },
+    {
+        "id": 9,
+        "name": "Backpack",
+        "description": "Durable backpack for everyday use",
+        "price": "$29.99",
+        "images": "https://m.media-amazon.com/images/I/41CJXY4Dm9L._AC_UY1100_.jpg",
+        "color": "Blue",
+        "brand": "WildCraft",
+        "category": "Accessories",
+        "stock_quantity": 100,
+        "ratings":"5.0"
+    },
+    {
+        "id": 10,
+        "name": "Smartwatch",
+        "description": "High-tech smartwatch with fitness tracking",
+        "price": "$149.99",
+        "images": "https://5.imimg.com/data5/SELLER/Default/2020/12/KN/WP/OI/5388819/t500-smartwatch.jpg",
+        "color": "Black",
+        "brand": "Fire-Boult",
+        "category": "Electronics",
+        "stock_quantity": 50,
+        "ratings":"2.9"
+    }
+]
+
+
+
+    

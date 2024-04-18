@@ -1,0 +1,32 @@
+[
+    {
+        "Home": "Home Page",
+        "Description": "This is the main page of the website, providing navigation and access to various sections and features.",
+        "icon": "https://i.pinimg.com/474x/21/9d/bb/219dbbeefef0dcd45c869f58442ebc5b.jpg"
+    },
+    {
+        "Home": "Shop by Category Page",
+        "Description": "This page allows users to browse products by different categories, facilitating easier shopping.",
+        "icon": "https://icons.getbootstrap.com/assets/img/icons-hero.png"
+    },
+    {
+        "Home": "Special Shops Page",
+        "Description": "This page showcases special or unique shops, offering curated collections or specific themes.",
+        "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/specialty-store-5373296-4489591.png"
+    },
+    {
+        "Home": "My Account Page",
+        "Description": "Users can access and manage their account details, settings, and preferences on this page.",
+        "icon": "https://static.vecteezy.com/system/resources/thumbnails/007/407/996/small/user-icon-person-icon-client-symbol-login-head-sign-icon-design-vector.jpg"
+    },
+    {
+        "Home": "Last Purchase Page",
+        "Description": "This page displays the user's recent purchases, providing order details and tracking information.",
+        "icon": "https://cdn-icons-png.flaticon.com/512/9759/9759925.png"
+    },
+    {
+        "Home": "Connect Us Page",
+        "Description": "Users can find contact information and links to social media platforms to connect with the website or company.",
+        "icon": "https://static.thenounproject.com/png/27709-200.png"
+    }
+]
